@@ -1,9 +1,9 @@
-# NEXUS-AI 
+# BWOBWO-AI 
 
 <!-- Glowing Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+NEXUS+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=☣️+BWOBWO+AI+VERSION;👻+The+Best+Simple+WhatsApp+Bot+Across+The+Glob;💻+Crafted+by+Pkdriller💀;🐕‍🦺+Next-Generation+Reliable+✅" alt="Typing Animation">
 </h1>
 
 <!-- Banner Image -->
@@ -18,7 +18,7 @@
 <!-- Action Buttons -->
 <p align="center">
   <a href="https://nexus-qr-code-1-caxd.onrender.com">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_NEXUS_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
+    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/❤️_GET_BWOBWO_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=blue" width="260" height="50"/>
    </a>
 </p>
 <p align="center">
